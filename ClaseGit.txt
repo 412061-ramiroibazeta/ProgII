@@ -12,3 +12,5 @@ SETEO CREDENCIALES PARA HACER UN PULL
 
 git config --global user.email "412061@tecnicatura.frc.utn.edu.ar"
 git config --global user.name "412061-ramiroibazeta"
+
+checkout -b nuevaRama //crea y te lleva a la rama
