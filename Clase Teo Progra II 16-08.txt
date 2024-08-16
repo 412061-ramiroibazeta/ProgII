@@ -1,0 +1,65 @@
+------- Programación II
+
+-- Primer Parcial: Sábado 5/10 | Unidad 1,2,3
+-- Recuperatorio: Sábado 16/11 | Unidad 1,2,3
+
+Herencia "es un"
+
+MÉTODO VIRTUAL
+- se va a redefinir o implementar en 
+clase hija, 
+Padre: public virtual tipodato metodo
+Hija: public override tipodato metodo
+
+METODO ABSTRACTO
+- no tiene implementacion en clase base (a dif
+de virtual que algo hace en clase base)
+- no es obligatorio que una clase abstracta tenga
+metodo abstracto
+- se debe implementar en clases derivadas usando
+override
+
+POLIMORFISMO
+- Ligado a herencia
+- Responder a un  MISMO mensaje de distintas maneras
+- Deben heredar de la misma clase
+
+-------------------
+
+INTERFACES
+
+Abstraccion
+contrato sobre el que se puede estar seguro de que, 
+las clases que las implementen, lo van a cumplir
+
+interface Icontenedor
+{
+}
+
+Si dos clases representan dos implementaciones 
+distintas de la misma funcionalidad, suele ser muy 
+útil tener la posibilidad de intercambiar 
+las implementaciones.
+
+Las interfaces por defecto son públicas y sus métodos
+son abstractos
+
+ENUM
+
+CLASES ESTATICAS
+
+- Contener miembros estáticos
+- No se pueden instanciar
+- No puede contener constructores
+- Está sellada (no se puede heredar)
+
+public static class Utilidades
+
+EJEMPLO CLASE ESTATICA: Math
+
+- Pueden ser parte de una clase no estática
+- Solo existe una copia independiente de las instancias
+- Se puede sobrecargar
+- Un atributo const es basicamente estático
+
+
