@@ -1,0 +1,14 @@
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\bin\Debug\net8.0\Repaso.exe
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\bin\Debug\net8.0\Repaso.deps.json
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\bin\Debug\net8.0\Repaso.runtimeconfig.json
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\bin\Debug\net8.0\Repaso.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\bin\Debug\net8.0\Repaso.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfoInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfo.cs
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\refint\Repaso.dll
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.pdb
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\Repaso.genruntimeconfig.cache
+C:\Users\Ramiro\Downloads\UTN-TUP\PROGRAMACION II\PRACTICAS\Repaso\obj\Debug\net8.0\ref\Repaso.dll
