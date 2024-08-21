@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\bin\Debug\net8.0\Pilas.exe
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\bin\Debug\net8.0\Pilas.deps.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\bin\Debug\net8.0\Pilas.runtimeconfig.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\bin\Debug\net8.0\Pilas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\bin\Debug\net8.0\Pilas.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.sourcelink.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\refint\Pilas.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\Pilas.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\Programación II\ProgII\PRACTICAS\Pilas\Pilas\obj\Debug\net8.0\ref\Pilas.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\pilas\\pilas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|solutionrelative:pilas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\pilas\\pilas\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|solutionrelative:pilas\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\pilas\\pilas\\icollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|solutionrelative:pilas\\icollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\pilas\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314106D-A2C3-44B0-B72A-096C2534EC86}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Program.cs",
+              "RelativeDocumentMoniker": "Pilas\\Program.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Program.cs",
+              "RelativeToolTip": "Pilas\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:01:05.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICollection.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\ICollection.cs",
+              "RelativeDocumentMoniker": "Pilas\\ICollection.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\ICollection.cs",
+              "RelativeToolTip": "Pilas\\ICollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:02:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Pila.cs",
+              "RelativeDocumentMoniker": "Pilas\\Pila.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Pila.cs",
+              "RelativeToolTip": "Pilas\\Pila.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:11:34.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Cola.cs",
+              "RelativeDocumentMoniker": "Pilas\\Cola.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Cola.cs",
+              "RelativeToolTip": "Pilas\\Cola.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:09:29.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

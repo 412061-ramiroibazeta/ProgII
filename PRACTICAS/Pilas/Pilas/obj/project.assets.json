@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Repaso\\Repaso.csproj",
-      "projectName": "Repaso",
-      "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Repaso\\Repaso.csproj",
+      "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Pilas.csproj",
+      "projectName": "Pilas",
+      "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\Pilas.csproj",
       "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Repaso\\obj\\",
+      "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Pilas\\Pilas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
