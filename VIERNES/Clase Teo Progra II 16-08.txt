@@ -62,4 +62,11 @@ EJEMPLO CLASE ESTATICA: Math
 - Se puede sobrecargar
 - Un atributo const es basicamente estático
 
+------------------------------- CLASE 23/08-------------------------------------
+                          PATRONES
 
+-- DAO
+
+-- SINGLETON
+
+-- PROGRAMACION EN CAPAS
