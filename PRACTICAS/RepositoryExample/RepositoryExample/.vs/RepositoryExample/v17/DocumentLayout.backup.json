@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\repositoryexample\\repositoryexample\\data\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\repositoryexample\\repositoryexample\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\repositoryexample\\repositoryexample\\domain\\detailbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:domain\\detailbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\repositoryexample\\repositoryexample\\data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\repositoryexample\\repositoryexample\\domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:45:22.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BudgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\BudgetRepository.cs",
+              "RelativeDocumentMoniker": "Data\\BudgetRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\BudgetRepository.cs",
+              "RelativeToolTip": "Data\\BudgetRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:01:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBudgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\IBudgetRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBudgetRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Data\\IBudgetRepository.cs",
+              "RelativeToolTip": "Data\\IBudgetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:56:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailBudget.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Domain\\DetailBudget.cs",
+              "RelativeDocumentMoniker": "Domain\\DetailBudget.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Domain\\DetailBudget.cs",
+              "RelativeToolTip": "Domain\\DetailBudget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:27:44.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Domain\\Budget.cs",
+              "RelativeDocumentMoniker": "Domain\\Budget.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\RepositoryExample\\RepositoryExample\\Domain\\Budget.cs",
+              "RelativeToolTip": "Domain\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:25:20.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -70,3 +70,7 @@ EJEMPLO CLASE ESTATICA: Math
 -- SINGLETON
 
 -- PROGRAMACION EN CAPAS
+
+------------------------- 30/8---------------------------
+
+MANEJO DE TRANSACCIONES 
