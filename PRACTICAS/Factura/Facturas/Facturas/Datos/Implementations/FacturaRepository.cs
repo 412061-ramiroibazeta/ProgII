@@ -51,6 +51,7 @@ namespace Facturas.Datos.Implementations
 
                     detalleId++;
                 }
+                t.Commit();
             }
             catch (SqlException)
             {

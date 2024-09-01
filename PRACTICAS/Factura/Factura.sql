@@ -144,6 +144,13 @@ BEGIN
     SELECT * FROM Articulos;
 END;
 
+CREATE PROCEDURE sp_get_articulo_id
+@id_articulo int
+AS
+BEGIN
+    SELECT * FROM Articulos WHERE id_articulo = @id_articulo;
+END;
+
 -- Nuevo registro
 CREATE PROCEDURE sp_insert_articulos
     @id_articulo INT,

@@ -48,7 +48,6 @@ namespace Facturas.Datos.Utils
             }
             catch (SqlException)
             {
-
                 dt = null;
             }
             return dt;
