@@ -10,8 +10,31 @@ namespace Facturas.Dominio
     {
         public int NroFactura { get; set; }
         public DateTime Fecha { get; set; }
-        public int IdFormaPago { get; set; }
-        public int IdCliente { get; set; }
-        
+        public FormaPago FormaPago { get; set; }
+        public string Cliente { get; set; }
+        public List<DetalleFactura> Detalles { get; set; }
+
+        public Factura()
+        {
+            Detalles = new List<DetalleFactura>();
+        }
+
+        public void AniadirDetalle(DetalleFactura detalle)
+        {
+            Detalles.Add(detalle);
+        }
+        public void QuitarDetalle(int indice)
+        {
+            Detalles.RemoveAt(indice);
+        }
+        public double Total()
+        {
+            double total = 0;
+            foreach (DetalleFactura df in Detalles)
+            {
+                total += df.Subtotal();
+            }
+            return total;
+        }
     }
 }

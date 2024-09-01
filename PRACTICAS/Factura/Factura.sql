@@ -10,10 +10,10 @@ CREATE TABLE Forma_pago (
 );
 
 CREATE TABLE Facturas (
-    nro_factura INT NOT NULL,
+    nro_factura INT NOT NULL IDENTITY(1,1),
     fecha DATE NOT NULL,
     id_forma_pago INT NOT NULL,
-    id_cliente INT NOT NULL,
+    cliente varchar(50) NOT NULL,
     CONSTRAINT PK_Facturas PRIMARY KEY (nro_factura),
     CONSTRAINT FK_Factura_FormaPago FOREIGN KEY (id_forma_pago) 
 	REFERENCES Forma_pago(id_forma_pago)
@@ -32,7 +32,7 @@ CREATE TABLE Detalle_factura (
     id_articulo INT NOT NULL,
     precio DECIMAL(10, 2) NOT NULL,
     cantidad INT NOT NULL,
-    CONSTRAINT PK_Detalle_factura PRIMARY KEY (id_detalle_factura),
+    CONSTRAINT PK_Detalle_factura PRIMARY KEY (id_detalle_factura, id_factura),
     CONSTRAINT FK_Detalle_factura_Factura FOREIGN KEY (id_factura) 
 	REFERENCES Facturas(nro_factura),
     CONSTRAINT FK_Detalle_factura_Articulo FOREIGN KEY (id_articulo) 
@@ -45,7 +45,7 @@ VALUES
 (2, 'Tarjeta de Crédito'),
 (3, 'Transferencia Bancaria');
 
-INSERT INTO Factura (nro_factura, fecha, id_forma_pago, id_cliente)
+INSERT INTO Factura(nro_factura, fecha, id_forma_pago, id_cliente)
 VALUES 
 (1001, '2024-08-01', 1, 201),
 (1002, '2024-08-15', 2, 202);
@@ -69,41 +69,71 @@ VALUES
 --------------------------------------------- STORE PROCEDURES ---------------------------------------------------------
 --FORMA DE PAGO
 -- Obtener todos
-CREATE PROCEDURE sp_get_all_forma_pago
-AS
-BEGIN
-    SELECT * FROM Forma_pago;
-END;
+--CREATE PROCEDURE sp_get_all_forma_pago
+--AS
+--BEGIN
+--    SELECT * FROM Forma_pago;
+--END;
 
--- Nuevo registro
-CREATE PROCEDURE sp_insert_forma_pago
-    @id_forma_pago INT,
-    @forma_pago VARCHAR(50)
-AS
-BEGIN
-    INSERT INTO Forma_pago (id_forma_pago, forma_pago)
-    VALUES (@id_forma_pago, @forma_pago);
-END;
+---- Nuevo registro
+--CREATE PROCEDURE sp_insert_forma_pago
+--    @id_forma_pago INT,
+--    @forma_pago VARCHAR(50)
+--AS
+--BEGIN
+--    INSERT INTO Forma_pago (id_forma_pago, forma_pago)
+--    VALUES (@id_forma_pago, @forma_pago);
+--END;
 
 -- FACTURAS
 -- Obtener todos
-CREATE PROCEDURE sp_get_all_factura
+CREATE PROCEDURE sp_get_all_facturas
 AS
 BEGIN
-    SELECT * FROM Factura;
+    SELECT * FROM Facturas;
 END;
 
 -- Nuevo registro
-CREATE PROCEDURE sp_insert_factura
-    @nro_factura INT,
-    @fecha DATE,
-    @id_forma_pago INT,
-    @id_cliente INT
+CREATE PROCEDURE sp_insertar_factura
+	@nro_factura int output,
+	-- fecha lo agrego como getdate()
+	@id_forma_pago int,
+	@cliente varchar(50)
 AS
 BEGIN
-    INSERT INTO Factura (nro_factura, fecha, id_forma_pago, id_cliente)
-    VALUES (@nro_factura, @fecha, @id_forma_pago, @id_cliente);
+	INSERT INTO Facturas(fecha, id_forma_pago, cliente) VALUES (GETDATE(), @id_forma_pago, @cliente);
+	SET @nro_factura = SCOPE_IDENTITY();
+END
+
+-- Nuevo registro detalle
+CREATE PROCEDURE sp_insert_detalle_factura
+    @id_detalle_factura INT,
+    @id_factura INT,
+    @id_articulo INT,
+    @precio DECIMAL(10, 2),
+    @cantidad INT
+AS
+BEGIN
+    INSERT INTO Detalle_factura (id_detalle_factura, id_factura, id_articulo, precio, cantidad)
+    VALUES (@id_detalle_factura, @id_factura, @id_articulo, @precio, @cantidad);
 END;
+
+
+
+
+-- DETALLE FACTURA
+-- Obtener todos
+CREATE PROCEDURE sp_get_all_detalle_factura
+AS
+BEGIN
+    SELECT * FROM Detalle_factura;
+END;
+--
+
+
+
+
+
 
 -- ARTICULOS
 -- Obtener todos
@@ -125,27 +155,6 @@ BEGIN
     VALUES (@id_articulo, @nombre, @precio_unitario);
 END;
 
--- DETALLE FACTURA
--- Obtener todos
-CREATE PROCEDURE sp_get_all_detalle_factura
-AS
-BEGIN
-    SELECT * FROM Detalle_factura;
-END;
 
--- Nuevo registro
-CREATE PROCEDURE sp_insert_detalle_factura
-    @id_detalle_factura INT,
-    @id_factura INT,
-    @id_articulo INT,
-    @precio DECIMAL(10, 2),
-    @cantidad INT
-AS
-BEGIN
-    INSERT INTO Detalle_factura (id_detalle_factura, id_factura, id_articulo, precio, cantidad)
-    VALUES (@id_detalle_factura, @id_factura, @id_articulo, @precio, @cantidad);
-END;
-
---
 
   

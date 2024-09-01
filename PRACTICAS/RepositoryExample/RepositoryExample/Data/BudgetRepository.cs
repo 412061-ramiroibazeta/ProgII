@@ -36,7 +36,8 @@ namespace RepositoryExample.Data
                 cmd.Parameters.AddWithValue("@vigencia", budget.Expiration);
                 
                 SqlParameter param = new SqlParameter("@id", SqlDbType.Int);
-                param.Direction = ParameterDirection.Input;
+                param.Direction = ParameterDirection.Output;
+                cmd.Parameters.Add(param);
 
                 cmd.ExecuteNonQuery();
 
@@ -57,6 +58,7 @@ namespace RepositoryExample.Data
                     
                     detailId++;
                 }
+                t.Commit();
             }
             catch (SqlException)
             {
