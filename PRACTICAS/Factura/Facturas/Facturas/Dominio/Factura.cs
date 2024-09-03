@@ -20,8 +20,22 @@ namespace Facturas.Dominio
         }
 
         public void AniadirDetalle(DetalleFactura detalle)
-        {
-            Detalles.Add(detalle);
+        {            
+            bool repetido = false;
+            
+            foreach (DetalleFactura d in Detalles)
+            {
+                if (detalle.Articulo.IdArticulo == d.Articulo.IdArticulo)
+                {
+                    d.Cantidad += detalle.Cantidad;
+                    repetido = true; 
+                    break; 
+                }
+            }
+            if (!repetido)
+            {
+                Detalles.Add(detalle);
+            }
         }
         public void QuitarDetalle(int indice)
         {

@@ -22,6 +22,7 @@ namespace Facturas.Datos.Implementations
             {
                 cnn = DataHelper.GetInstance().GetConnection();
                 cnn.Open();
+                t = cnn.BeginTransaction();
                 var cmd = new SqlCommand("sp_insertar_factura", cnn, t);
                 cmd.CommandType = CommandType.StoredProcedure;
 
@@ -55,7 +56,7 @@ namespace Facturas.Datos.Implementations
             }
             catch (SqlException)
             {
-                if (t == null)
+                if (t != null)
                 {
                     t.Rollback();
                     aux = false;

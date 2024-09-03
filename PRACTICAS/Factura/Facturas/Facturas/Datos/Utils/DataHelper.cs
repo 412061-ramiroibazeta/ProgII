@@ -55,6 +55,10 @@ namespace Facturas.Datos.Utils
         public int ExecuteSPUpd(string sp, List<Parametro>? lst) //sirve para actualizar(update)
         {
             int filasAfectadas;
+            if (_cnn.State == ConnectionState.Open)
+            {
+                _cnn.Close();
+            }
             try
             {
                 _cnn.Open();
@@ -68,11 +72,18 @@ namespace Facturas.Datos.Utils
                     }
                 }
                 filasAfectadas = cmd.ExecuteNonQuery();
+                _cnn.Close();
             }
             catch (SqlException)
             {
-
                 filasAfectadas = 0;
+            }
+            finally
+            {                
+                if (_cnn.State == ConnectionState.Open)
+                {
+                    _cnn.Close();
+                }
             }
             return filasAfectadas;
         }

@@ -11,7 +11,7 @@ namespace Facturas.Datos.Interfaces
     {
         List<Articulo> GetAll();
         Articulo GetById(int id);
-        bool Save();
+        bool Save(Articulo articulo);
         bool DeleteById(int id);
     }
 }

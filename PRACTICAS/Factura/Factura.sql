@@ -45,55 +45,19 @@ VALUES
 (2, 'Tarjeta de Crédito'),
 (3, 'Transferencia Bancaria');
 
-INSERT INTO Factura(nro_factura, fecha, id_forma_pago, id_cliente)
-VALUES 
-(1001, '2024-08-01', 1, 201),
-(1002, '2024-08-15', 2, 202);
-
-INSERT INTO Articulos (id_articulo, nombre, precio_unitario)
-VALUES 
-(1, 'Laptop', 1200.00),
-(2, 'Mouse', 25.50),
-(3, 'Teclado', 45.75),
-(4, 'Monitor', 300.00),
-(5, 'Impresora', 150.00);
-
-INSERT INTO Detalle_factura (id_detalle_factura, id_factura, id_articulo, precio, cantidad)
-VALUES 
-(1, 1001, 1, 1200.00, 1),
-(2, 1001, 2, 25.50, 2),
-(3, 1002, 4, 300.00, 1),
-(4, 1002, 5, 150.00, 1);
 
 
---------------------------------------------- STORE PROCEDURES ---------------------------------------------------------
---FORMA DE PAGO
--- Obtener todos
---CREATE PROCEDURE sp_get_all_forma_pago
---AS
---BEGIN
---    SELECT * FROM Forma_pago;
---END;
+---------------------------------------------------------------SP------------------------------------------------------------------------
 
----- Nuevo registro
---CREATE PROCEDURE sp_insert_forma_pago
---    @id_forma_pago INT,
---    @forma_pago VARCHAR(50)
---AS
---BEGIN
---    INSERT INTO Forma_pago (id_forma_pago, forma_pago)
---    VALUES (@id_forma_pago, @forma_pago);
---END;
-
--- FACTURAS
+------------------------------------------------------------FACTURAS
 -- Obtener todos
 CREATE PROCEDURE sp_get_all_facturas
 AS
 BEGIN
     SELECT * FROM Facturas;
-END;
+END
 
--- Nuevo registro
+-- Nueva factura
 CREATE PROCEDURE sp_insertar_factura
 	@nro_factura int output,
 	-- fecha lo agrego como getdate()
@@ -105,7 +69,7 @@ BEGIN
 	SET @nro_factura = SCOPE_IDENTITY();
 END
 
--- Nuevo registro detalle
+-- Nuevo registro detalle_factura
 CREATE PROCEDURE sp_insert_detalle_factura
     @id_detalle_factura INT,
     @id_factura INT,
@@ -118,32 +82,14 @@ BEGIN
     VALUES (@id_detalle_factura, @id_factura, @id_articulo, @precio, @cantidad);
 END;
 
-
-
-
--- DETALLE FACTURA
+------------------------------------------------------------ARTICULOS
 -- Obtener todos
-CREATE PROCEDURE sp_get_all_detalle_factura
-AS
-BEGIN
-    SELECT * FROM Detalle_factura;
-END;
---
-
-
-
-
-
-
--- ARTICULOS
--- Obtener todos
-
 CREATE PROCEDURE sp_get_all_articulos
 AS
 BEGIN
     SELECT * FROM Articulos;
 END;
-
+-- Articulo ID
 CREATE PROCEDURE sp_get_articulo_id
 @id_articulo int
 AS
@@ -151,7 +97,7 @@ BEGIN
     SELECT * FROM Articulos WHERE id_articulo = @id_articulo;
 END;
 
--- Nuevo registro
+-- Nuevo articulo
 CREATE PROCEDURE sp_insert_articulos
     @id_articulo INT,
     @nombre VARCHAR(100),
@@ -161,7 +107,51 @@ BEGIN
     INSERT INTO Articulos (id_articulo, nombre, precio_unitario)
     VALUES (@id_articulo, @nombre, @precio_unitario);
 END;
-
+-- Borrar Articulo por ID
+CREATE PROCEDURE sp_delete_articulo
+@id_articulo int
+AS
+BEGIN
+    DELETE FROM Articulos WHERE id_articulo = @id_articulo;
+END;
 
 
   
+--------------------------------------------------------------FORMA DE PAGO--
+-- Obtener todos
+CREATE PROCEDURE sp_get_all_forma_pago
+AS
+BEGIN
+    SELECT * FROM Forma_pago;
+END;
+
+CREATE PROCEDURE sp_get_forma_pago
+@id_forma_pago INT
+AS
+BEGIN
+    SELECT * FROM Forma_pago WHERE id_forma_pago = @id_forma_pago;
+END;
+
+-- Nuevo registro
+CREATE PROCEDURE sp_insert_forma_pago
+    @id_forma_pago INT,
+    @forma_pago VARCHAR(50)
+AS
+BEGIN
+    INSERT INTO Forma_pago (id_forma_pago, forma_pago)
+    VALUES (@id_forma_pago, @forma_pago);
+END;
+
+CREATE PROCEDURE sp_delete_tipo_pago
+@id_forma_pago int
+AS
+BEGIN
+    DELETE FROM Forma_pago WHERE id_forma_pago = @id_forma_pago;
+END;
+
+
+--CREATE PROCEDURE sp_get_all_detalle_factura
+--AS
+--BEGIN
+--    SELECT * FROM Detalle_factura;
+--END;

@@ -2,8 +2,11 @@
 using Facturas.Datos.Utils;
 using Facturas.Dominio;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.Common;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +17,10 @@ namespace Facturas.Datos.Implementations
     {
         public bool DeleteById(int id)
         {
-            throw new NotImplementedException();
+            var parameters = new List<Parametro>();
+            parameters.Add(new Parametro("@id_articulo", id));
+            int filasAfectadas = DataHelper.GetInstance().ExecuteSPUpd("sp_delete_articulo", parameters);
+            return filasAfectadas == 1;
         }
 
         public List<Articulo> GetAll()
@@ -50,9 +56,29 @@ namespace Facturas.Datos.Implementations
             return articulo;
         }
 
-        public bool Save()
+        public bool Save(Articulo articulo)
         {
-            throw new NotImplementedException();
+            bool aux = false;
+            try
+            {
+                if (articulo != null)
+                {
+                    List<Parametro> list = new List<Parametro>();
+                    list.Add(new Parametro("@id_articulo", articulo.IdArticulo));
+                    list.Add(new Parametro("@nombre", articulo.Nombre));
+                    list.Add(new Parametro("@precio_unitario", articulo.PrecioUnitario));
+                    if (DataHelper.GetInstance().ExecuteSPUpd("sp_insert_articulos", list) == 1)
+                    {
+                        aux = true;
+                    }
+                }
+            }
+            catch (SqlException sqlEx)
+            {
+                aux = false;
+            }
+            
+            return aux;
         }
     }
 }
