@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programación II\\ProgII\\PRACTICAS\\Banco\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",

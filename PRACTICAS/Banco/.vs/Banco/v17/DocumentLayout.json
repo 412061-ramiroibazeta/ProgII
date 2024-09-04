@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\",
+  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\banco\\banco\\utils\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\banco\\banco\\utils\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|solutionrelative:banco\\utils\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\banco\\banco\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\banco\\banco\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|solutionrelative:banco\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\banco\\banco\\repository\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\banco\\banco\\repository\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|solutionrelative:banco\\repository\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\programaci\u00F3n ii\\progii\\practicas\\banco\\banco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\banco\\banco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E485DE8F-CDAC-42EB-A70D-468EC9684483}|Banco\\Banco.csproj|solutionrelative:banco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,67 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Entities\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "Banco\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Entities\\Cliente.cs",
               "RelativeToolTip": "Banco\\Entities\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:49:41.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T23:49:41.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Utils\\ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Utils\\ProductServices.cs",
               "RelativeDocumentMoniker": "Banco\\Utils\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Utils\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Utils\\ProductServices.cs",
               "RelativeToolTip": "Banco\\Utils\\ProductServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:59:52.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T23:59:52.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Repository\\Implementations\\ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Repository\\Implementations\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Banco\\Repository\\Implementations\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Repository\\Implementations\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Repository\\Implementations\\ClienteRepository.cs",
               "RelativeToolTip": "Banco\\Repository\\Implementations\\ClienteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:46:20.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T23:46:20.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Data\\DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "Banco\\Data\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Data\\DataHelper.cs",
               "RelativeToolTip": "Banco\\Data\\DataHelper.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:16:08.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T23:16:08.258Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Program.cs",
               "RelativeDocumentMoniker": "Banco\\Program.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\Programaci\u00F3n II\\ProgII\\PRACTICAS\\Banco\\Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Banco\\Banco\\Program.cs",
               "RelativeToolTip": "Banco\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
