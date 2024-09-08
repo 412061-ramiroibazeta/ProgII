@@ -21,5 +21,9 @@ namespace Facturas.Servicios
         {
             return _facturaRepository.Save(factura);
         }
+        public Factura GetById(int nroFactura)
+        {
+            return _facturaRepository.GetById(nroFactura);
+        }
     }
 }

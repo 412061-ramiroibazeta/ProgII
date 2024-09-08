@@ -50,5 +50,9 @@ namespace Facturas.Dominio
             }
             return total;
         }
+        public override string ToString()
+        {
+            return NroFactura.ToString();                ;
+        }
     }
 }

@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\datos\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\datos\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\datos\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\servicios\\facturaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\servicios\\facturaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\datos\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\datos\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\factura\\facturas\\facturas\\datos\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2331F2-962C-4D59-B841-36A089E3648D}|Facturas\\Facturas.csproj|solutionrelative:facturas\\datos\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,29 +41,20 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Program.cs",
-              "RelativeDocumentMoniker": "Facturas\\Program.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Program.cs",
-              "RelativeToolTip": "Facturas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:48:00.019Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Dominio\\Factura.cs",
-              "RelativeDocumentMoniker": "Facturas\\Dominio\\Factura.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Dominio\\Factura.cs",
-              "RelativeToolTip": "Facturas\\Dominio\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FacturaServices.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Servicios\\FacturaServices.cs",
+              "RelativeDocumentMoniker": "Facturas\\Servicios\\FacturaServices.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Servicios\\FacturaServices.cs",
+              "RelativeToolTip": "Facturas\\Servicios\\FacturaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T22:30:15.561Z",
+              "WhenOpened": "2024-09-07T20:22:09.888Z",
               "EditorCaption": ""
             },
             {
@@ -62,9 +65,61 @@
               "RelativeDocumentMoniker": "Facturas\\Datos\\Implementations\\FacturaRepository.cs",
               "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Implementations\\FacturaRepository.cs",
               "RelativeToolTip": "Facturas\\Datos\\Implementations\\FacturaRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwDoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T22:05:26.012Z",
+              "WhenOpened": "2024-09-07T19:51:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Implementations\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Facturas\\Datos\\Implementations\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Implementations\\ArticuloRepository.cs",
+              "RelativeToolTip": "Facturas\\Datos\\Implementations\\ArticuloRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:44:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Interfaces\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturas\\Datos\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Interfaces\\IFacturaRepository.cs",
+              "RelativeToolTip": "Facturas\\Datos\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:42:00.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Program.cs",
+              "RelativeDocumentMoniker": "Facturas\\Program.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Program.cs",
+              "RelativeToolTip": "Facturas\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:48:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "Facturas\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Dominio\\Factura.cs",
+              "RelativeToolTip": "Facturas\\Dominio\\Factura.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:30:15.561Z",
               "EditorCaption": ""
             },
             {
@@ -75,14 +130,10 @@
               "RelativeDocumentMoniker": "Facturas\\Datos\\Utils\\DataHelper.cs",
               "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\Factura\\Facturas\\Facturas\\Datos\\Utils\\DataHelper.cs",
               "RelativeToolTip": "Facturas\\Datos\\Utils\\DataHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T00:48:43.23Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

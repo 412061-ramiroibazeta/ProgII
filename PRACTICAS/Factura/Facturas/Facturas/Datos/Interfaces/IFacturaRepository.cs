@@ -11,5 +11,6 @@ namespace Facturas.Datos.Interfaces
     public interface IFacturaRepository
     {
         bool Save(Factura factura);
+        Factura GetById(int nroFactura);
     }
 }

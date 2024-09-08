@@ -49,13 +49,22 @@ VALUES
 
 ---------------------------------------------------------------SP------------------------------------------------------------------------
 
-------------------------------------------------------------FACTURAS
+------------------------------------------------------------  FACTURAS
 -- Obtener todos
 CREATE PROCEDURE sp_get_all_facturas
 AS
 BEGIN
     SELECT * FROM Facturas;
 END
+
+
+CREATE PROCEDURE sp_get_factura
+@nro_factura INT
+AS
+BEGIN
+    SELECT f.nro_factura, f.fecha, f.cliente, fp.id_forma_pago, fp.forma_pago FROM Facturas f, Forma_pago fp WHERE nro_factura = @nro_factura AND f.id_forma_pago = fp.id_forma_pago;
+END
+
 
 -- Nueva factura
 CREATE PROCEDURE sp_insertar_factura
@@ -82,13 +91,30 @@ BEGIN
     VALUES (@id_detalle_factura, @id_factura, @id_articulo, @precio, @cantidad);
 END;
 
-------------------------------------------------------------ARTICULOS
+
+
+CREATE PROCEDURE sp_get_all_detalle_factura
+AS
+BEGIN
+    SELECT * FROM Detalle_factura;
+END;
+
+
+CREATE PROCEDURE sp_get_detalle_nro_f
+@nro_factura INT
+AS
+BEGIN
+    SELECT a.id_articulo, df.precio, df.cantidad, a.nombre FROM Detalle_factura df, Articulos a WHERE id_factura = @nro_factura AND df.id_articulo = a.id_articulo;
+END;	
+
+------------------------------------------------------------  ARTICULOS
 -- Obtener todos
 CREATE PROCEDURE sp_get_all_articulos
 AS
 BEGIN
     SELECT * FROM Articulos;
 END;
+
 -- Articulo ID
 CREATE PROCEDURE sp_get_articulo_id
 @id_articulo int
@@ -107,6 +133,7 @@ BEGIN
     INSERT INTO Articulos (id_articulo, nombre, precio_unitario)
     VALUES (@id_articulo, @nombre, @precio_unitario);
 END;
+
 -- Borrar Articulo por ID
 CREATE PROCEDURE sp_delete_articulo
 @id_articulo int
@@ -150,8 +177,3 @@ BEGIN
 END;
 
 
---CREATE PROCEDURE sp_get_all_detalle_factura
---AS
---BEGIN
---    SELECT * FROM Detalle_factura;
---END;

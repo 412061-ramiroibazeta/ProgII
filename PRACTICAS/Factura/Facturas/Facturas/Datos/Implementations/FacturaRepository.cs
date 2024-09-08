@@ -30,7 +30,7 @@ namespace Facturas.Datos.Implementations
                 cmd.Parameters.AddWithValue("@cliente", factura.Cliente);
 
                 SqlParameter parametro = new SqlParameter("@nro_factura", SqlDbType.Int);
-                parametro.Direction = ParameterDirection.Output;                
+                parametro.Direction = ParameterDirection.Output;
                 cmd.Parameters.Add(parametro);
 
                 cmd.ExecuteNonQuery();
@@ -70,6 +70,50 @@ namespace Facturas.Datos.Implementations
                 }
             }
             return aux;
-        }        
+        }
+
+        public Factura GetById(int nroFactura)
+        {
+            Factura factura = new Factura();
+            var dt = new DataTable();
+            List<Parametro> list = new List<Parametro>();
+            list.Add(new Parametro("@nro_factura", nroFactura));
+
+            dt = DataHelper.GetInstance().ExecuteSPGet("sp_get_factura", list);
+            foreach (DataRow dr in dt.Rows)
+            {
+                factura.NroFactura = nroFactura;
+                factura.Fecha = Convert.ToDateTime(dr["fecha"]);
+
+                FormaPago pago = new FormaPago();
+                pago.IdFormaPago = Convert.ToInt32(dr["id_forma_pago"]);
+                pago.FormaDePago = Convert.ToString(dr["forma_pago"]);
+
+                factura.FormaPago =  pago;
+                factura.Cliente = Convert.ToString(dr["cliente"]);
+            }
+            
+            var dtArt = new DataTable();
+            List<Parametro> lst = new List<Parametro>();
+            lst.Add(new Parametro("@nro_factura", nroFactura));
+            dtArt = DataHelper.GetInstance().ExecuteSPGet("sp_get_detalle_nro_f", lst);
+            foreach(DataRow dr in dtArt.Rows)
+            {
+                DetalleFactura detalle = new DetalleFactura();
+                
+                Articulo articulo = new Articulo();
+                articulo.IdArticulo = Convert.ToInt32(dr["id_articulo"]);
+                articulo.Nombre = Convert.ToString(dr["nombre"]);
+
+                detalle.IdFactura = nroFactura;
+                detalle.Articulo = articulo;
+                detalle.Cantidad = Convert.ToInt32(dr["cantidad"]);
+                detalle.Precio = Convert.ToInt32(dr["precio"]);
+
+                factura.Detalles.Add(detalle);
+            }
+
+            return factura;
+        }
     }
 }
