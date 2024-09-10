@@ -39,13 +39,6 @@ CREATE TABLE Detalle_factura (
 	REFERENCES Articulos(id_articulo)
 );
 
-INSERT INTO Forma_pago (id_forma_pago, forma_pago)
-VALUES 
-(1, 'Efectivo'),
-(2, 'Tarjeta de Crédito'),
-(3, 'Transferencia Bancaria');
-
-
 
 ---------------------------------------------------------------SP------------------------------------------------------------------------
 
@@ -105,7 +98,26 @@ CREATE PROCEDURE sp_get_detalle_nro_f
 AS
 BEGIN
     SELECT a.id_articulo, df.precio, df.cantidad, a.nombre FROM Detalle_factura df, Articulos a WHERE id_factura = @nro_factura AND df.id_articulo = a.id_articulo;
-END;	
+END;
+
+CREATE PROCEDURE sp_delete_detalle
+@nro_factura int
+AS
+BEGIN
+    DELETE FROM Detalle_factura WHERE id_factura = @nro_factura;
+END;
+
+CREATE PROCEDURE sp_edit_header_factu
+	@nro_factura int,
+	-- fecha lo agrego como getdate()
+	@id_forma_pago int,
+	@cliente varchar(50)
+AS
+BEGIN
+    UPDATE Facturas
+	SET id_forma_pago = @id_forma_pago, cliente = @cliente
+	WHERE nro_factura = @nro_factura;
+END;
 
 ------------------------------------------------------------  ARTICULOS
 -- Obtener todos
@@ -175,5 +187,6 @@ AS
 BEGIN
     DELETE FROM Forma_pago WHERE id_forma_pago = @id_forma_pago;
 END;
+
 
 

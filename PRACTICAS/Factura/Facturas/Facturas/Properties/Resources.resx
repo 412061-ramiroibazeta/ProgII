@@ -117,7 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cnnString" xml:space="preserve">
+  <data name="cnnStringNb" xml:space="preserve">
     <value>Data Source=RAMIRO\SQLEXPRESS;Initial Catalog=Facturas;Integrated Security=True;</value>
+  </data>
+  <data name="cnnStringPC" xml:space="preserve">
+    <value>Data Source=DESKTOP-GVURFS8\SQLEXPRESS;Initial Catalog=Facturas;Integrated Security=True;</value>
   </data>
 </root>

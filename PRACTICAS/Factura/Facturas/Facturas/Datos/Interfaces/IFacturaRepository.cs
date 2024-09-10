@@ -12,5 +12,6 @@ namespace Facturas.Datos.Interfaces
     {
         bool Save(Factura factura);
         Factura GetById(int nroFactura);
+        public bool Edit (Factura factura);
     }
 }

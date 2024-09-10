@@ -25,5 +25,9 @@ namespace Facturas.Servicios
         {
             return _facturaRepository.GetById(nroFactura);
         }
+        public bool Edit (Factura factura)
+        {
+            return _facturaRepository.Edit(factura);
+        }
     }
 }

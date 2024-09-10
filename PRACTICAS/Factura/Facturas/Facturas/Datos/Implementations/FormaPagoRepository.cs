@@ -69,7 +69,7 @@ namespace Facturas.Datos.Implementations
                 {
                     List<Parametro> list = new List<Parametro>();
                     list.Add(new Parametro("@id_forma_pago", formaPago.IdFormaPago));
-                    list.Add(new Parametro("@@forma_pago", formaPago.FormaDePago));                    
+                    list.Add(new Parametro("@forma_pago", formaPago.FormaDePago));                    
                     if (DataHelper.GetInstance().ExecuteSPUpd("sp_insert_forma_pago", list) == 1)
                     {
                         aux = true;

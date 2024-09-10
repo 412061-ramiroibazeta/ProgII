@@ -14,7 +14,7 @@ namespace Facturas.Datos.Utils
         private SqlConnection _cnn;
         public DataHelper()
         {
-            _cnn = new SqlConnection(Properties.Resources.cnnString);
+            _cnn = new SqlConnection(Properties.Resources.cnnStringPC);
         }
         public static DataHelper GetInstance()
         {

@@ -63,9 +63,18 @@ namespace Facturas.Properties {
         /// <summary>
         ///   Busca una cadena traducida similar a Data Source=RAMIRO\SQLEXPRESS;Initial Catalog=Facturas;Integrated Security=True;.
         /// </summary>
-        internal static string cnnString {
+        internal static string cnnStringNb {
             get {
-                return ResourceManager.GetString("cnnString", resourceCulture);
+                return ResourceManager.GetString("cnnStringNb", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Data Source=DESKTOP-GVURFS8\SQLEXPRESS;Initial Catalog=Facturas;Integrated Security=True;.
+        /// </summary>
+        internal static string cnnStringPC {
+            get {
+                return ResourceManager.GetString("cnnStringPC", resourceCulture);
             }
         }
     }

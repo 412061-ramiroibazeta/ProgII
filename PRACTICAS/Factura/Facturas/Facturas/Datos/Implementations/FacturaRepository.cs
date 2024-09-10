@@ -115,5 +115,68 @@ namespace Facturas.Datos.Implementations
 
             return factura;
         }
+
+        public bool Edit(Factura factura)
+        {
+            bool aux = true;
+            SqlConnection cnn = null;
+            SqlTransaction t = null;
+            try
+            {
+                cnn = DataHelper.GetInstance().GetConnection();
+                cnn.Open();
+                t = cnn.BeginTransaction();
+
+                var cmdHeader = new SqlCommand("sp_edit_header_factu", cnn, t);
+                cmdHeader.CommandType = CommandType.StoredProcedure;
+
+                cmdHeader.Parameters.AddWithValue("@nro_factura", factura.NroFactura);
+                cmdHeader.Parameters.AddWithValue("@id_forma_pago", factura.FormaPago.IdFormaPago);
+                cmdHeader.Parameters.AddWithValue("@cliente", factura.Cliente);
+
+                cmdHeader.ExecuteNonQuery();
+                ////////////////////////////////////////////
+                var cmd = new SqlCommand("sp_delete_detalle", cnn, t);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                cmd.Parameters.AddWithValue("@nro_factura", factura.NroFactura);                
+
+                cmd.ExecuteNonQuery();
+                
+                int detalleId = 1;
+                foreach (var detalle in factura.Detalles)
+                {
+                    var cmdDetail = new SqlCommand("sp_insert_detalle_factura", cnn, t);
+                    cmdDetail.CommandType = CommandType.StoredProcedure;
+
+                    cmdDetail.Parameters.AddWithValue("@id_detalle_factura", detalleId);
+                    cmdDetail.Parameters.AddWithValue("@id_factura", factura.NroFactura);
+                    cmdDetail.Parameters.AddWithValue("@id_articulo", detalle.Articulo.IdArticulo);
+                    cmdDetail.Parameters.AddWithValue("@precio", detalle.Precio);
+                    cmdDetail.Parameters.AddWithValue("@cantidad", detalle.Cantidad);
+
+                    cmdDetail.ExecuteNonQuery();
+
+                    detalleId++;
+                }
+                t.Commit();
+            }
+            catch (SqlException)
+            {
+                if (t != null)
+                {
+                    t.Rollback();
+                    aux = false;
+                }
+            }
+            finally
+            {
+                if (cnn != null && cnn.State == ConnectionState.Open)
+                {
+                    cnn.Close();
+                }
+            }
+            return aux;
+        }
     }
 }
