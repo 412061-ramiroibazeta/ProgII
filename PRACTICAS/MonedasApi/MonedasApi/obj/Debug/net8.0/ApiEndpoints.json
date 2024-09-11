@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MonedasApi.Controllers.MonedaController",
+    "Method": "GetMonedas",
+    "RelativePath": "api/Moneda",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonedasApi.Controllers.MonedaController",
+    "Method": "PostMoneda",
+    "RelativePath": "api/Moneda",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "moneda",
+        "Type": "MonedasApi.Models.Moneda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonedasApi.Controllers.MonedaController",
+    "Method": "GetMonedas",
+    "RelativePath": "api/Moneda/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

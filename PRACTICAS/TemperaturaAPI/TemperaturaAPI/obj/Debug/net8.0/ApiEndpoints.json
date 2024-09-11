@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "TemperaturaAPI.Controllers.TemperaturaController",
+    "Method": "Get",
+    "RelativePath": "api/Temperatura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaAPI.Controllers.TemperaturaController",
+    "Method": "PostTemp",
+    "RelativePath": "api/Temperatura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "t",
+        "Type": "TemperaturaAPI.Models.Temperatura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TemperaturaAPI.Controllers.TemperaturaController",
+    "Method": "GetById",
+    "RelativePath": "api/Temperatura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

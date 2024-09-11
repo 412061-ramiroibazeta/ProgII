@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ProductosController.Controllers.ProductoController",
+    "Method": "GetAll",
+    "RelativePath": "Api/Producto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductosController.Controllers.ProductoController",
+    "Method": "Post",
+    "RelativePath": "Api/Producto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "ProductosController.Models.Productos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
