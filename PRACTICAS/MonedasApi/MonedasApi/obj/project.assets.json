@@ -428,19 +428,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ramir\\.nuget\\packages\\": {}
+    "C:\\Users\\Ramiro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\MonedasApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\MonedasApi.csproj",
       "projectName": "MonedasApi",
-      "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\MonedasApi.csproj",
-      "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\obj\\",
+      "projectPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\MonedasApi.csproj",
+      "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ramiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

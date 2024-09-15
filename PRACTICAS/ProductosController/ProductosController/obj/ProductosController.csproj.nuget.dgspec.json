@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj": {}
+    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj": {
+    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj",
+        "projectUniqueName": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj",
         "projectName": "ProductosController",
-        "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj",
-        "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\obj\\",
+        "projectPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\ProductosController.csproj",
+        "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ramiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
