@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "ApiTurnos.Controllers.TurnoController",
+    "Method": "GetContar",
+    "RelativePath": "Api/Turno/ContarTurnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hora",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiTurnos.Controllers.TurnoController",
+    "Method": "GetServicios",
+    "RelativePath": "Api/Turno/servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

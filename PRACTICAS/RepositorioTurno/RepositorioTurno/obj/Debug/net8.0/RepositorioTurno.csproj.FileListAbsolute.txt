@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.deps.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.Properties.Resources.resources
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.csproj.GenerateResource.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.sourcelink.json
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\refint\RepositorioTurno.dll
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.pdb
+C:\Users\ramir\OneDrive\Desktop\2 CUATRIMESTRE\ProgII\PRACTICAS\RepositorioTurno\RepositorioTurno\obj\Debug\net8.0\ref\RepositorioTurno.dll
