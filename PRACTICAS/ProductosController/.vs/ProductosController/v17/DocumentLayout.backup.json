@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\",
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\productoscontroller\\productoscontroller\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\productoscontroller\\productoscontroller\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|solutionrelative:productoscontroller\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practicas\\productoscontroller\\productoscontroller\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\productoscontroller\\productoscontroller\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{998A4C95-DD73-43A9-A7E8-157E802C9079}|ProductosController\\ProductosController.csproj|solutionrelative:productoscontroller\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "ProductosController\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "ProductosController\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T00:00:48.904Z",
               "EditorCaption": ""
@@ -41,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Services\\ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "ProductosController\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\ProductosController\\ProductosController\\Services\\ProductoService.cs",
               "RelativeToolTip": "ProductosController\\Services\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:54:40.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T23:54:40.944Z"
             }
           ]
         }
