@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef - clase\\turnoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T23:27:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Controllers\\TurnoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:19:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeToolTip": "Services\\ITurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:13:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Services\\TurnoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:13:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\TurnoRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:43:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF - Clase\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\ITurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:39:33.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
