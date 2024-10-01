@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\MonedasApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\monedasapi\\monedasapi\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\monedasapi\\monedasapi\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|solutionrelative:monedasapi\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\programacion ii\\git - progra\\progii\\practicas\\monedasapi\\monedasapi\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\monedasapi\\monedasapi\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07079D5B-0955-4452-930F-89786847B004}|MonedasApi\\MonedasApi.csproj|solutionrelative:monedasapi\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,25 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MonedaController.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\Controllers\\MonedaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\MonedasApi\\MonedasApi\\Controllers\\MonedaController.cs",
               "RelativeDocumentMoniker": "MonedasApi\\Controllers\\MonedaController.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\Controllers\\MonedaController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\MonedasApi\\MonedasApi\\Controllers\\MonedaController.cs",
               "RelativeToolTip": "MonedasApi\\Controllers\\MonedaController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T22:39:03.807Z",
               "EditorCaption": ""
@@ -45,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Moneda.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\Models\\Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\MonedasApi\\MonedasApi\\Models\\Moneda.cs",
               "RelativeDocumentMoniker": "MonedasApi\\Models\\Moneda.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\GIT - PROGRA\\ProgII\\PRACTICAS\\MonedasApi\\MonedasApi\\Models\\Moneda.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\MonedasApi\\MonedasApi\\Models\\Moneda.cs",
               "RelativeToolTip": "MonedasApi\\Models\\Moneda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

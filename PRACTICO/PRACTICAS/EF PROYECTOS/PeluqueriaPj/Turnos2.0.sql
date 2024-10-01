@@ -1,0 +1,38 @@
+CREATE DATABASE TurnosDB;
+GO
+
+USE TurnosDB;
+GO
+
+CREATE TABLE EFMigrationsHistory (
+    MigrationId VARCHAR(150) NOT NULL,
+    ProductVersion VARCHAR(32) NOT NULL,
+    CONSTRAINT PK_EFMigrationsHistory PRIMARY KEY (MigrationId)
+);
+
+CREATE TABLE TURNOS (
+    id INT IDENTITY(1,1) NOT NULL,
+    fecha DATE NULL,
+    hora VARCHAR(5) NULL,
+    cliente VARCHAR(100) NULL,
+    fecha_cancelacion DATE NULL,
+    motivo_cancelacion VARCHAR(MAX) NULL,
+    CONSTRAINT PK_TURNOS PRIMARY KEY (id)
+);
+
+CREATE TABLE SERVICIOS (
+    id INT NOT NULL,
+    nombre VARCHAR(50) NOT NULL,
+    costo INT NOT NULL,
+    enPromocion VARCHAR(1) NOT NULL,
+    CONSTRAINT PK_SERVICIOS PRIMARY KEY (id)
+);
+
+CREATE TABLE DETALLES_TURNO (
+    id_turno INT NOT NULL,
+    id_servicio INT NOT NULL,
+    observaciones VARCHAR(200) NULL,
+    CONSTRAINT PK_DETALLES_TURNO PRIMARY KEY (id_turno, id_servicio),
+    CONSTRAINT FK_DETALLES_TURNO_TURNOS FOREIGN KEY (id_turno) REFERENCES TURNOS(id),
+    CONSTRAINT FK_DETALLES_TURNO_SERVICIOS FOREIGN KEY (id_servicio) REFERENCES SERVICIOS(id)
+);

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\repositories\\contracts\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\repositories\\contracts\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\services\\implementations\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\services\\implementations\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\services\\contracts\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\services\\contracts\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\repositories\\implementations\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\repositories\\implementations\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\repositories\\contracts\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\repositories\\contracts\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\peluqueriapj\\peluqueriaback\\data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAE91B4-08AC-495E-9B7F-DD5B2A903D54}|PeluqueriaBack.csproj|solutionrelative:data\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Contracts\\ITurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:32:37.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Services\\Implementations\\ServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\Implementations\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Services\\Implementations\\ServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\Implementations\\ServicioService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:51:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Services\\Contracts\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\Contracts\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Services\\Contracts\\IServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\Contracts\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:50:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Implementations\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Implementations\\ServicioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\ServicioRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:47:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Contracts\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Contracts\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Repositories\\Contracts\\IServicioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Contracts\\IServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:44:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnosDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Models\\TurnosDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TurnosDBContext.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\PeluqueriaPj\\PeluqueriaBack\\Data\\Models\\TurnosDBContext.cs",
+              "RelativeToolTip": "Data\\Models\\TurnosDBContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:39:51.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
