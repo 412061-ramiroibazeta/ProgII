@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj": {}
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj": {
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj",
+        "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj",
         "projectName": "ServicioBack",
-        "projectPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj",
-        "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramiro\\Desktop\\EntregasPrograII\\ServicioEntrega4\\ServicioBack\\obj\\",
+        "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ServicioEntrega4\\ServicioBack\\ServicioBack.csproj",
+        "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ServicioEntrega4\\ServicioBack\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ramiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
