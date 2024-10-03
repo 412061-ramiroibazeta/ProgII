@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\data\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:data\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\data\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:data\\repository\\pelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|c:\\users\\ramiro\\downloads\\utn-tup\\segundo cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\modelo parcial\\practica - net 7\\modeloparcialapi\\data\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D71898-E508-4369-B463-54600F700D66}|ModeloParcialAPI.csproj|solutionrelative:data\\repository\\ipelicularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T22:31:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:19:21.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:17:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Repository\\PeliculaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\PeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Repository\\PeliculaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\PeliculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:15:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPeliculaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Repository\\IPeliculaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IPeliculaRepository.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Repository\\IPeliculaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IPeliculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:12:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\Data\\Models\\Genero.cs",
+              "RelativeToolTip": "Data\\Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:12:01.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

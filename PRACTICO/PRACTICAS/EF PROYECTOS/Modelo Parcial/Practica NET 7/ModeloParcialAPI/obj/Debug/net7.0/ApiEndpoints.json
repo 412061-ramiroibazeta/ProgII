@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ModeloParcialAPI.Controllers.PeliculaController",
+    "Method": "GetPeliculas",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
