@@ -8,5 +8,63 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialAPI.Controllers.PeliculaController",
+    "Method": "Save",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "ModeloParcialAPI.Data.Models.Pelicula",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialAPI.Controllers.PeliculaController",
+    "Method": "Update",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "motivo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialAPI.Controllers.PeliculaController",
+    "Method": "GetByAnios",
+    "RelativePath": "api/Pelicula/{anioDesde}/{anioHasta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "anioDesde",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "anioHasta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

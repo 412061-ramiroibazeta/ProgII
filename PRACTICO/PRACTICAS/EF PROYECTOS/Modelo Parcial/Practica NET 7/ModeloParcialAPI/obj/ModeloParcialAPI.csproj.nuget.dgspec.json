@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj": {}
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj": {
+    "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj",
         "projectName": "ModeloParcialAPI",
-        "projectPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj",
-        "packagesPath": "C:\\Users\\Ramiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramiro\\Downloads\\UTN-TUP\\SEGUNDO CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica - NET 7\\ModeloParcialAPI\\obj\\",
+        "projectPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica NET 7\\ModeloParcialAPI\\ModeloParcialAPI.csproj",
+        "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Modelo Parcial\\Practica NET 7\\ModeloParcialAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ramiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
