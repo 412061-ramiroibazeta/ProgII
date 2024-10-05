@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "LibrosPParcial.Controllers.LibrosController",
+    "Method": "GetActivos",
+    "RelativePath": "api/Libros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibrosPParcial.Controllers.LibrosController",
+    "Method": "SaveLibro",
+    "RelativePath": "api/Libros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libro",
+        "Type": "LibrosPParcial.Data.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibrosPParcial.Controllers.LibrosController",
+    "Method": "UpdateLibro",
+    "RelativePath": "api/Libros",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libro",
+        "Type": "LibrosPParcial.Data.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibrosPParcial.Controllers.LibrosController",
+    "Method": "GetByAutor",
+    "RelativePath": "api/Libros/{autor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autor",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibrosPParcial.Controllers.LibrosController",
+    "Method": "GetBetween",
+    "RelativePath": "api/Libros/{fechaDesde}/{fechaHasta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaDesde",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaHasta",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

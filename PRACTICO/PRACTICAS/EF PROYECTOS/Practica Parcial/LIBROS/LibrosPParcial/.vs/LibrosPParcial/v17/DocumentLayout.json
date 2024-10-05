@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\practica parcial\\librospparcial\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\practica parcial\\librospparcial\\data\\repository\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|solutionrelative:data\\repository\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\practica parcial\\librospparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\practica parcial\\librospparcial\\data\\repository\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|solutionrelative:data\\repository\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|c:\\users\\ramir\\onedrive\\desktop\\2 cuatrimestre\\progii\\practico\\practicas\\ef proyectos\\practica parcial\\librospparcial\\data\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A008BEFD-C5BB-4C72-B0EA-18ED4D4C328C}|LibrosPParcial.csproj|solutionrelative:data\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Models\\Categoria.cs",
+              "RelativeToolTip": "Data\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:51:49.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:23:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Repository\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Repository\\ILibroRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:53:26.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Repository\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Data\\Repository\\LibroRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\LibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:58:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\Practica Parcial\\LibrosPParcial\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:20:14.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

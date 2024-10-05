@@ -44,3 +44,12 @@ INSERT INTO Libro (Titulo, Autor, CategoriaId, FechaPublicacion, Disponible)
 VALUES ('Sapiens', 'Yuval Noah Harari', 3, '04-09-2011', 1);
 
 
+--1) Todos los libros disponibles
+--2) Validar campos obligatorios al insertar un libro, debe estar disponible al insertarse
+--3) Consultar libros por autor 
+--4) Consultar libros por categoría
+--5) Consultar libros por fecha de publicación
+--6) Al editar un libro se debe sacar de disponibilidad
+
+
+

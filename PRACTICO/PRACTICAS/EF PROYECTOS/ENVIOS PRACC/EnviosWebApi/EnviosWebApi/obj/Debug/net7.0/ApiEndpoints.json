@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "EnviosWebApi.Controllers.EnvioController",
+    "Method": "Save",
+    "RelativePath": "api/Envio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "envio",
+        "Type": "EnviosWebApi.Models.TEnvio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnviosWebApi.Controllers.EnvioController",
+    "Method": "Delete",
+    "RelativePath": "api/Envio",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnviosWebApi.Controllers.EnvioController",
+    "Method": "GetByFechasCancel",
+    "RelativePath": "api/Envio/{fechaDesde}/{fechaHasta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaDesde",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "fechaHasta",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
