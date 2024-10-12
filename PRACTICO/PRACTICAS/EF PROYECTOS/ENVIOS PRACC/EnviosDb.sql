@@ -88,3 +88,26 @@ BEGIN
 	INSERT INTO T_Envio VALUES(@fecha_envio, @direccion, 'Para enviar', @dni_cliente)
 END
 GO
+
+
+---------------------------------------------------------------------------------------------------------------------------
+set dateformat dmy
+INSERT INTO [dbo].[T_Empresas] (id, razonSocial, rubro, fecha_baja, cod_postal)
+VALUES 
+(1, 'Empresa A', 'Logística', '31-12-2025', 1000),
+(2, 'Empresa B', 'Transporte', '31-12-2025', 1010),
+(3, 'Empresa C', 'Mensajería', '31-12-2025', 1020),
+(4, 'Empresa D', 'Courier', '31-12-2025', 1030),
+(5, 'Empresa E', 'Paquetería', '31-12-2025', 1040);
+
+
+INSERT INTO [dbo].[T_Envio] (fecha_envio, direccion, estado, dni_cliente, id_empresa)
+VALUES
+('01-10-2024', 'Calle Falsa 123', 'valido', '12345678', 1),
+('02-10-2024', 'Av. Siempre Viva 742', 'cancelado', '23456789', 2),
+('03-10-2024', 'Calle Corrientes 555', 'valido', '34567890', 3),
+('04-10-2024', 'Ruta 66', 'valido', '45678901', 4),
+('05-10-2024', 'Calle Florida 876', 'cancelado', '56789012', 5);
+
+Select * from T_Envio
+

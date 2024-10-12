@@ -1,0 +1,29 @@
+*{
+    margin: 4px; /* eliminamos margenes del documento*/
+    padding: 0;
+    
+    /* border: solid 1px rebeccapurple; */
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+#titulo{
+    font-weight: bold;
+    color:rebeccapurple;
+    text-align: center;
+}
+
+.justificado{ /* clase de estilo*/
+    text-align: justify;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 10px;
+}

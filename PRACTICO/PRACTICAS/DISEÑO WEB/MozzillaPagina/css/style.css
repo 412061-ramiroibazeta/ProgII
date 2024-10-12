@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+}
+#tinyBox{
+    background-color: orange;
+    border: 3px;
+    border-color: black;
+    margin: auto;
+    width: 700px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 1%;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 40%;
+    
+}

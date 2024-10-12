@@ -1,0 +1,12 @@
+#Indice{
+    text-align: right;
+    list-style: none;
+    display: flex;
+}
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}

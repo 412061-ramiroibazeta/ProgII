@@ -46,8 +46,7 @@
               "RelativeToolTip": "Models\\TEmpresa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:55:31.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:55:31.957Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Models\\TEnvio.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:43:15.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T22:43:15.177Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Repository\\Contracts\\IEnvioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:53:23.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:53:23.803Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Repository\\Implementations\\EnvioRepository.cs",
               "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ENVIOS PRACC\\EnviosWebApi\\EnviosWebApi\\Repository\\Implementations\\EnvioRepository.cs",
               "RelativeToolTip": "Repository\\Implementations\\EnvioRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T22:04:11.881Z",
               "EditorCaption": ""
@@ -96,7 +93,7 @@
               "RelativeDocumentMoniker": "Controllers\\EnvioController.cs",
               "ToolTip": "C:\\Users\\ramir\\OneDrive\\Desktop\\2 CUATRIMESTRE\\ProgII\\PRACTICO\\PRACTICAS\\EF PROYECTOS\\ENVIOS PRACC\\EnviosWebApi\\EnviosWebApi\\Controllers\\EnvioController.cs",
               "RelativeToolTip": "Controllers\\EnvioController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAswFsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv18AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T22:07:29.381Z",
               "EditorCaption": ""
