@@ -13,6 +13,10 @@ builder.Services.AddScoped<IServicioRepository, ServicioRepository>();
 
 builder.Services.AddScoped<IServicioService, ServicioService>();
 
+builder.Services.AddScoped<ITurnoRepository, TurnoRepository>();
+
+//builder.Services.AddScoped<ITurnoService, TurnoService>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
