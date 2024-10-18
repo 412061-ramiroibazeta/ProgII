@@ -1,12 +1,66 @@
-#Indice{
+*{
+    background-color: grey;
+}
+html,body{
+    height: 100%;
+}
+.main{
+    height: 100%;
+}
+
+.Indice{
     text-align: right;
     list-style: none;
-    display: flex;
+    display: flex; 
+    justify-content: right; 
 }
-h1 {
+
+li{
+    margin-right: 3rem;
+    margin-bottom: 5rem;
+}
+
+.nav{
+    text-align: right;
+}
+
+h1{
     text-align: center;
+}
+.divFormContacto{
+    width: 100%;
+    display: flex;    
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    border: 3px solid rgb(44, 32, 32);   
+    border-radius: 1rem;
+    box-shadow: 1px 1px 1px 1px rgb(97, 76, 76);
+    width: 30%;
+}
+
+.formItems{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.botones{
+    
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
 }
 
 footer {
     text-align: center;
+    background-color: red;
+}
+textarea{
+    resize: none;
 }

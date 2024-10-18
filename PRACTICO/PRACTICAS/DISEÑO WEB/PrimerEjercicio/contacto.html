@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Contacto</title>
 </head>
 <body>
     <header>
-        <nav>
-            <ul id="Indice">
+        <nav class="nav">
+            <ul class="Indice">
                 <li><a href="/index.html">Inicio</a></li>
                 <li><a href="/nosotros.html">Nosotros</a></li>
                 <li><a href="/contacto.html">Contacto</a></li>
@@ -17,20 +18,28 @@
     </header>
 
     <body>
-        <div id = "divFormContacto">
+        <div class = "divFormContacto">
             <form action=" https://labsys.frc.utn.edu.ar/dds-express/eco" method="post">
-               
-                <label for="nombreCompleto">Nombre completo:</label>
-                <input type="text" id="nombreCompleto" required>
-    
-                <label for="mail">Correo electronico:</label>
-                <input type="mail" id="mail" required>
-    
-                <label for="telefono">Telefono:</label>
-                <input type="number" id="telefono" required>
-    
-                <label for="mensaje">Mensaje:</label>
-                <input type="text" id="mensaje" required>
+                
+                <div class="formItems">
+                    <label for="nombreCompleto">Nombre completo:</label>
+                    <input type="text" id="nombreCompleto" required>
+                </div>
+                
+                <div class="formItems">
+                    <label for="mail">Correo electronico:</label>
+                    <input type="mail" id="mail" required>
+                </div>
+                
+                <div class="formItems">
+                    <label for="telefono">Telefono:</label>
+                    <input type="number" id="telefono" required>
+                </div>
+                
+                <div class="formItems">
+                    <label for="mensaje">Mensaje:</label>
+                    <textarea name="mensaje" id="mensaje"></textarea>
+                </div>
     
                 <label for="opciones">Seleccione una opcion:</label>
                 <select name="opciones" id="opcion">
@@ -38,13 +47,21 @@
                     <option value="2">Opcion 2</option>
                     <option value="3">Opcion 3</option>
                 </select>
-    
-                <input type="submit" id="enviar" value="Enviar">
-    
-                <input type="reset" id="reset" value="Borrar">
+                
+                <div class = "botones">
+                    <input type="submit" id="enviar" value="Enviar">
+        
+                    <input type="reset" id="reset" value="Borrar">
+                </div>
     
                </form>     
-        </div>   
+        </div>  
+        <script>
+            function procesar() {
+                const $email = document.getElementById('mail');w
+                const $sugerencia = document.getElementById('mensaje').value;
+            }
+        </script>
     </body>
 
     <footer>
